@@ -1,0 +1,4 @@
+#mindkét torpedót tüzeljük és utána nem marad torpedónk
+GT4500,1,0,1,0 
+TORPEDO,ALL # should FIRE BOTH torpedos
+TORPEDO,SINGLE # should fail

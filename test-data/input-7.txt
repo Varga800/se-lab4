@@ -1,0 +1,3 @@
+#minden üres fail
+GT4500,0,0,0,0 
+TORPEDO,SINGLE # should fail

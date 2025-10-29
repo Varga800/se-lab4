@@ -1,0 +1,3 @@
+#ha üres a soron következő store, próbálja e a másikból? (első fajta)
+GT4500,0,0,1,0 
+TORPEDO,SINGLE # should have fired from the secondary store
